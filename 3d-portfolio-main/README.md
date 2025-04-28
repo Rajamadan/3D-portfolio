@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <a href="https://jeffjiang.vercel.app/"><strong>🚀 View Demo</strong></a>
+    <a href="rajamadan.github.io/3D-portfolio/"><strong>🚀 View Demo</strong></a>
 </p>
 
 ## About The Project
