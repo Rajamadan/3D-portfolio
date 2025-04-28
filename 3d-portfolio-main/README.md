@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <a href="https://github.com/jeffjiang13/3d-portfolio">
+    <a href="(https://rajamadan.github.io/3D-portfolio/)">
         <img src="src/assets/logo3.png" alt="3D Portfolio Logo" width="235" height="150">
     </a>
 </div>
@@ -33,38 +33,3 @@ This 3D Portfolio Website is a creative approach to showcasing a portfolio in an
 - **TailwindCSS**: A utility-first CSS framework for rapidly building custom designs.
 - **Framer Motion**: A library for React that makes creating realistic animations and transitions easy and powerful.
 
-## Getting Started
-
-To get a local copy up and running, follow these simple steps:
-
-### Prerequisites
-
-- npm
-```sh
-npm install npm@latest -g
-```
-
-### Installation
-
-1. Clone the repo
-```sh
-git clone https://github.com/jeffjiang13/3d-portfolio.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
-3. Start the project
-```sh
-npm start
-```
-
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
